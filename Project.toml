@@ -1,7 +1,7 @@
 name = "JacobiCoordinates"
 uuid = "7e3f6fc5-7c81-43bd-9feb-fd47b13b83bf"
 authors = ["Shuhei Ohno"]
-version = "1.0.0-DEV"
+version = "0.0.1"
 
 [compat]
 julia = "1"
